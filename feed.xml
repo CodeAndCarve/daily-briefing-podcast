@@ -6,7 +6,7 @@
     <link>http://localhost:8080</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 02:29:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 02:50:25 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -19,14 +19,14 @@
     <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Briefing — Monday, April 6, 2026</title>
-      <link>https://creakiest-ressie-pettishly.ngrok-free.dev/episodes/2026-04-06/episode.mp3</link>
-      <pubDate>Mon, 06 Apr 2026 02:25:25 +0000</pubDate>
-      <guid>https://creakiest-ressie-pettishly.ngrok-free.dev/episodes/2026-04-06/episode.mp3</guid>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-06/episode.mp3</link>
+      <pubDate>Mon, 06 Apr 2026 02:46:38 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-06/episode.mp3</guid>
       <description>Daily Briefing — Monday, April 6, 2026
 
-Good morning and welcome to the Daily Briefing. It’s Monday, April 6, 2026. I'm Marcus, here with Sofia to bring you up to speed on today’s news highlights. We’ll start in the world of technology, where some new developments are stirring debates around music royalties and AI assistants. Over to AI, there’s exciting—and sometimes chaotic—news about autonomous agents. Then in world affairs, high tensions in the Middle East as the U.S. responds to incidents involving Iran. Finally, we'll dive into the business world, where Trump's recent remarks continue to sway market reactions. Thanks, Marcus. There's a lot happening today. We’ll also look at how the ongoing crisis in Iran is affecting fuel prices worldwide and what that means for our day-to-day lives. Let’s get started. Let’s dive into technology. There's talk about Los Thuthanaka’s new album, "Wak'a." Last year, their…</description>
-      <enclosure url="https://creakiest-ressie-pettishly.ngrok-free.dev/episodes/2026-04-06/episode.mp3" length="11084356" type="audio/mpeg" />
-      <itunes:duration>00:09:28</itunes:duration>
+**INTRO** Welcome to Daily Briefing. I'm Marcus, and today is Monday, April 6, 2026. We're starting the week with some diverse headlines, from technology's evolving role in music to intriguing dynamics in the world of AI. In world affairs, tensions in the Middle East are impacting global markets, and there's some buzz in the business world about recent statements from former President Trump. I'm Sofia. We'll also touch on how geopolitical events are influencing everything from fuel prices to stock markets. Stay tuned as we break it all down for you. **TECHNOLOGY SEGMENT** Let's dive into today's technology stories. It seems like Los Thuthanaka has returned with a new album that's getting some attention. Sofia, this band was quite the surprise hit last year, wasn't it? Yes, Marcus, they really were a dark horse coming out of nowhere to claim…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-06/episode.mp3" length="10313666" type="audio/mpeg" />
+      <itunes:duration>00:08:40</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
       <itunes:explicit>false</itunes:explicit>
