@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Daily Briefing</title>
+    <description>Your AI-powered daily news podcast covering technology, AI, world affairs, and business &amp; finance.</description>
+    <link>http://localhost:8080</link>
+    <language>en-us</language>
+    <copyright>© 2026 Daily Briefing Podcast</copyright>
+    <lastBuildDate>Mon, 06 Apr 2026 02:29:10 +0000</lastBuildDate>
+    <itunes:author>Daily Briefing Podcast</itunes:author>
+    <itunes:owner>
+      <itunes:name>Daily Briefing Podcast</itunes:name>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News">
+      <itunes:category text="Daily News" />
+    </itunes:category>
+    <itunes:image href="http://localhost:8080/static/cover.jpg" />
+    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Monday, April 6, 2026</title>
+      <link>https://creakiest-ressie-pettishly.ngrok-free.dev/episodes/2026-04-06/episode.mp3</link>
+      <pubDate>Mon, 06 Apr 2026 02:25:25 +0000</pubDate>
+      <guid>https://creakiest-ressie-pettishly.ngrok-free.dev/episodes/2026-04-06/episode.mp3</guid>
+      <description>Daily Briefing — Monday, April 6, 2026
+
+Good morning and welcome to the Daily Briefing. It’s Monday, April 6, 2026. I'm Marcus, here with Sofia to bring you up to speed on today’s news highlights. We’ll start in the world of technology, where some new developments are stirring debates around music royalties and AI assistants. Over to AI, there’s exciting—and sometimes chaotic—news about autonomous agents. Then in world affairs, high tensions in the Middle East as the U.S. responds to incidents involving Iran. Finally, we'll dive into the business world, where Trump's recent remarks continue to sway market reactions. Thanks, Marcus. There's a lot happening today. We’ll also look at how the ongoing crisis in Iran is affecting fuel prices worldwide and what that means for our day-to-day lives. Let’s get started. Let’s dive into technology. There's talk about Los Thuthanaka’s new album, "Wak'a." Last year, their…</description>
+      <enclosure url="https://creakiest-ressie-pettishly.ngrok-free.dev/episodes/2026-04-06/episode.mp3" length="11084356" type="audio/mpeg" />
+      <itunes:duration>00:09:28</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
