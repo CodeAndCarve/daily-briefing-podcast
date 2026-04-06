@@ -3,20 +3,21 @@
   <channel>
     <title>Daily Briefing</title>
     <description>Your AI-powered daily news podcast covering technology, AI, world affairs, and business &amp; finance.</description>
-    <link>http://localhost:8080</link>
+    <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
     <lastBuildDate>Mon, 06 Apr 2026 02:50:25 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
+      <itunes:email>moregeomutant@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
-    <itunes:image href="http://localhost:8080/static/cover.jpg" />
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
+    <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Briefing — Monday, April 6, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-06/episode.mp3</link>
