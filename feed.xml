@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Mon, 06 Apr 2026 13:06:04 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 13:15:41 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Tuesday, April 7, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-07/episode.mp3</link>
+      <pubDate>Tue, 07 Apr 2026 13:00:13 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-07/episode.mp3</guid>
+      <description>Daily Briefing — Tuesday, April 7, 2026
+
+**INTRO** Hello and welcome to Daily Briefing! It’s Tuesday, April 7, 2026. I’m Marcus. And I’m Sofia. Thanks for joining us today. We have a lot to cover, starting with technology, where we're getting a sneak peek at a foldable iPhone and some intriguing moves in the AI sector. Absolutely fascinating, Marcus. And speaking of AI, we’ve got developments that might change how small businesses operate and potentially, the future of jobs as we know them. On the world stage, tensions are mounting with a looming deadline related to Iran that President Trump has set — it's shaping up to be a pivotal moment. And in the business world, big money moves with Universal Music and potential price hikes rippling from the conflict in the Middle East. Stick around as we unpack these stories and more. Let's dive in! **TECHNOLOGY…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-07/episode.mp3" length="12353594" type="audio/mpeg" />
+      <itunes:duration>00:10:48</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Monday, April 6, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-06/episode.mp3</link>
