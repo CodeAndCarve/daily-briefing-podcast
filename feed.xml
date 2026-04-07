@@ -3,30 +3,30 @@
   <channel>
     <title>Daily Briefing</title>
     <description>Your AI-powered daily news podcast covering technology, AI, world affairs, and business &amp; finance.</description>
-    <link>http://localhost:8080</link>
+    <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
     <lastBuildDate>Mon, 06 Apr 2026 13:06:04 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
-      <itunes:email />
+      <itunes:email>moregeomutant@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="News">
       <itunes:category text="Daily News" />
     </itunes:category>
-    <itunes:image href="http://localhost:8080/assets/cover.jpg" />
-    <atom:link href="http://localhost:8080/feed.xml" rel="self" type="application/rss+xml" />
+    <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
+    <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily Briefing — Monday, April 6, 2026</title>
-      <link>http://localhost:8080/episodes/2026-04-06/episode.mp3</link>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-06/episode.mp3</link>
       <pubDate>Mon, 06 Apr 2026 13:00:06 +0000</pubDate>
-      <guid>http://localhost:8080/episodes/2026-04-06/episode.mp3</guid>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-06/episode.mp3</guid>
       <description>Daily Briefing — Monday, April 6, 2026
 
-**INTRO** Good morning, everyone. It's Monday, April 6th, 2026, and welcome to the Daily Briefing. I'm Marcus, here with the key stories you need to know today. Our top story in technology is about potential AI influences on search engine results — a development that might change how we see the digital landscape. That's right, Marcus. And in the world of artificial intelligence, we're looking at how small online sellers are leveraging AI to guide their production decisions. It’s an interesting intersection of tech and commerce. In world affairs, tensions are high as Iran and the United States trade threats over the Strait of Hormuz, which has significant implications for global energy supplies. Quite important, Marcus, and in the business and finance arena, we're focusing on Jamie Dimon's latest shareholder letter, where he discusses major risks in geopolitics and AI.…</description>
-      <enclosure url="http://localhost:8080/episodes/2026-04-06/episode.mp3" length="14343548" type="audio/mpeg" />
+**INTRO** Good morning, everyone. It's Monday, April 6th, 2026, and welcome to the Daily Briefing. I'm Marcus, here with the key stories you need to know today. Our top story in technology is about potential AI influences on search engine results — a development that might change how we see the digital landscape. That's right, Marcus. And in the world of artificial intelligence, we're looking at how small online sellers are leveraging AI to guide their production decisions. It's an interesting intersection of tech and commerce. In world affairs, tensions are high as Iran and the United States trade threats over the Strait of Hormuz, which has significant implications for global energy supplies. Quite important, Marcus, and in the business and finance arena, we're focusing on Jamie Dimon's latest shareholder letter, where he discusses major risks in geopolitics and AI.</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-06/episode.mp3" length="14343548" type="audio/mpeg" />
       <itunes:duration>00:12:52</itunes:duration>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>full</itunes:episodeType>
