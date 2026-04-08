@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Tue, 07 Apr 2026 13:15:41 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 13:05:20 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Wednesday, April 8, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-08/episode.mp3</link>
+      <pubDate>Wed, 08 Apr 2026 13:00:06 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-08/episode.mp3</guid>
+      <description>Daily Briefing — Wednesday, April 8, 2026
+
+Welcome to "Daily Briefing," your trusted source for news that matters, delivered straight to your ears. Today is Wednesday, April 8th, 2026. I’m Marcus, and alongside me is Sofia, ready to dive deep into today’s top stories. First, we'll be exploring a promising development in tech with the launch of a unique USB-C AA battery — stay tuned to hear more about why that’s exciting for gadget lovers. Absolutely, Marcus. And moving into the world of AI, we have some intriguing updates, like Block's new AI agent, Managerbot. It’s poised to revolutionize how small businesses use artificial intelligence. Definitely one to watch. In world affairs, the U.S. and Iran have agreed to a two-week ceasefire, a development that has already begun affecting global markets. It’s a story rich with international implications. And speaking of markets, we'll see how the ceasefire…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-08/episode.mp3" length="12533874" type="audio/mpeg" />
+      <itunes:duration>00:10:59</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Tuesday, April 7, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-07/episode.mp3</link>
