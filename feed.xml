@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Wed, 08 Apr 2026 13:05:20 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 13:04:36 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Thursday, April 9, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-09/episode.mp3</link>
+      <pubDate>Thu, 09 Apr 2026 12:53:49 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-09/episode.mp3</guid>
+      <description>Daily Briefing — Thursday, April 9, 2026
+
+Welcome to the "Daily Briefing" for Thursday, April 9, 2026. I'm Marcus, and today we've got a packed lineup. We're diving into top stories from technology, artificial intelligence, world affairs, and business. To kick things off, we'll look at Amazon's latest plans to rival SpaceX's Starlink with their space-internet service, Leo. That's right, Marcus. It's an ambitious move from Amazon, setting their eyes on the skies. We'll also delve into some exciting developments in artificial intelligence, where advances are continual, even amidst some chaos. There's something new from Meta that's stirring discussion. In world affairs, a ceasefire between Iran and the U.S. is off to a rocky start with ongoing attacks in the Middle East. And on a lighter note, we'll share the heroic tale of a young ball boy who gained attention in a soccer match. It seems there…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-09/episode.mp3" length="15297209" type="audio/mpeg" />
+      <itunes:duration>00:13:51</itunes:duration>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Wednesday, April 8, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-08/episode.mp3</link>
