@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Thu, 09 Apr 2026 13:04:56 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 16:06:28 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Saturday, April 11, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-11/episode.mp3</link>
+      <pubDate>Sat, 11 Apr 2026 16:01:50 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-11/episode.mp3</guid>
+      <description>Daily Briefing — Saturday, April 11, 2026
+
+Welcome to Daily Briefing. It’s Saturday, April 11, 2026, and I’m Marcus, here with your essential guide to the news. And I’m Sofia. We're diving into tech, global affairs, the latest market movements, and much more today. Marcus, start us off with a peek into the tech world. Absolutely, Sofia. Top of the list, we’ve got an interesting error from Google. Polymarket bets, which are basically predictions on market events, appeared on Google News inadvertently. Not exactly what you'd expect to see mixed in with your regular headlines. Quite the algorithm hiccup, Marcus. And sticking with the digital realm, we've got some launch issues with Pokémon Champions. Bugs are impacting gameplay, and fans aren't thrilled. It's the latest in a series of rocky game releases. Over in AI, there's big talk about improving security measures. According to VentureBeat, experts are…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-11/episode.mp3" length="12348985" type="audio/mpeg" />
+      <itunes:duration>00:10:47</itunes:duration>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Thursday, April 9, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-09/episode.mp3</link>
