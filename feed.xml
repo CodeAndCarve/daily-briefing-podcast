@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 16:06:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Apr 2026 16:07:29 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Friday, April 10, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-10/episode.mp3</link>
+      <pubDate>Fri, 10 Apr 2026 13:13:43 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-10/episode.mp3</guid>
+      <description>Daily Briefing — Friday, April 10, 2026
+
+Good morning, everyone! It’s Friday, April 10, 2026, and you're listening to the "Daily Briefing." I'm Marcus, your anchor today. We've got a packed show ahead, so let's get right into it. In our technology segment, we'll dive into an exciting partnership between Snap and Qualcomm that’s setting the stage for their new AR glasses. And I’m Sofia. Absolutely, Marcus. It seems like Snap is finally moving forward after a bit of a standstill, and that Qualcomm partnership is definitely something to pay attention to. Beyond the tech realm, artificial intelligence continues to make headlines. Today, we'll discuss OpenAI's introduction of a new ChatGPT Pro tier at a hefty price tag, but with increased usage limits. However, some claims around their capabilities need more scrutiny. That’s right, Marcus. We'll also delve into some interesting, albeit single-sourced, insights about Anthropic's Mythos,…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-10/episode.mp3" length="13233449" type="audio/mpeg" />
+      <itunes:duration>00:11:43</itunes:duration>
+      <itunes:episode>6</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Saturday, April 11, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-11/episode.mp3</link>
