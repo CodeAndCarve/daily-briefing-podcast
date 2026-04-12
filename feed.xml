@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Sat, 11 Apr 2026 16:07:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 13:08:53 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Sunday, April 12, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-12/episode.mp3</link>
+      <pubDate>Sun, 12 Apr 2026 13:00:06 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-12/episode.mp3</guid>
+      <description>Daily Briefing — Sunday, April 12, 2026
+
+Good morning, it's Sunday, April 12, 2026. Welcome to another episode of "Daily Briefing". I'm Marcus. And I'm Sofia. Today, we've got a jam-packed show for you with the latest updates from the world of technology, artificial intelligence, world affairs, and finance. That's right, Sofia. Starting with the technology segment, there's a significant ripple effect in the energy market as ongoing geopolitical tensions from the Iran war have cast a shadow over the US's energy dominance strategy. It's an important issue, Marcus. The situation is affecting global oil prices, and we'll dig into how that's impacting consumers at the pump later in the segment. In artificial intelligence, we're hearing interesting debates about the implications of AI development not hitting a wall anytime soon. According to MIT Technology Review, this could signal new frontiers in technological capabilities. Absolutely, and there are…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-12/episode.mp3" length="13916499" type="audio/mpeg" />
+      <itunes:duration>00:12:25</itunes:duration>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Friday, April 10, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-10/episode.mp3</link>
