@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Sun, 12 Apr 2026 13:08:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2026 13:06:13 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Monday, April 13, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-13/episode.mp3</link>
+      <pubDate>Mon, 13 Apr 2026 13:00:29 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-13/episode.mp3</guid>
+      <description>Daily Briefing — Monday, April 13, 2026
+
+Good morning, everyone. It’s Monday, April 13th, 2026, and welcome to the Daily Briefing. I'm Marcus, and we're here to bring you up-to-date on today's key stories across technology, artificial intelligence, world affairs, and business. We're starting with a significant change from the gaming platform Roblox, which is tightening age verification processes for young users. That's right, Marcus. I'm Sofia, and we'll also dive into some intriguing developments in AI today, examining how businesses are adapting to new coding paradigms. Plus, there’s big news on the world affairs front, including the U.S.'s decision to blockade Iranian ports following failed peace talks. Indeed, Sofia. And in the world of business and finance, we'll explore how recent geopolitical moves might be affecting market dynamics, particularly with commodities and treasury yields reacting to the situation in Iran. Let’s get started with our technology…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-13/episode.mp3" length="14104079" type="audio/mpeg" />
+      <itunes:duration>00:12:37</itunes:duration>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Sunday, April 12, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-12/episode.mp3</link>
