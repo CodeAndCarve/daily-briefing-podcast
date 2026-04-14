@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Mon, 13 Apr 2026 13:06:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 13:15:10 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Tuesday, April 14, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-14/episode.mp3</link>
+      <pubDate>Tue, 14 Apr 2026 13:00:02 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-14/episode.mp3</guid>
+      <description>Daily Briefing — Tuesday, April 14, 2026
+
+Good morning listeners, and welcome to Daily Briefing. Today is Tuesday, April 14, 2026. I'm Marcus, and as always, I'm here to guide you through the most important news of the day. And I'm Sofia, ready to dive deeper into today's stories. We've got quite a lineup today, Marcus. Indeed we do. In technology news, there's buzz around a new Bloodborne animated film, though details are scant. Plus, a potentially game-changing wearable airbag for cyclists is on the horizon. That's right, Marcus. The innovation in cycling safety is certainly thrilling. Meanwhile, in the artificial intelligence sector, drones are being tested to protect wildlife, according to an interesting report we've seen. It's fascinating how tech continues to merge with nature, Sofia. In world affairs, we'll be discussing Eric Swalwell's resignation and a tense exchange between Trump and Pope Leo. It sounds…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-14/episode.mp3" length="11816227" type="audio/mpeg" />
+      <itunes:duration>00:10:14</itunes:duration>
+      <itunes:episode>9</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Monday, April 13, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-13/episode.mp3</link>
