@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Tue, 14 Apr 2026 13:15:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 13:05:28 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Wednesday, April 15, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-15/episode.mp3</link>
+      <pubDate>Wed, 15 Apr 2026 13:00:21 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-15/episode.mp3</guid>
+      <description>Daily Briefing — Wednesday, April 15, 2026
+
+Welcome to "Daily Briefing," the podcast that keeps you informed about today's most compelling news stories. I'm Marcus. And I'm Sofia. It's good to have you with us this Wednesday, April 15, 2026. Marcus, there's certainly a lot to cover today. Indeed, Sofia. Kicking things off, in the world of technology, Amazon has unveiled its sleekest Fire TV Stick HD yet, and we'll delve into what makes this new design special. We'll also touch on major layoffs at Snap, impacting 16% of its workforce as the company pivots towards AI. That's right. And in AI, Adobe's new Firefly AI Assistant promises to revolutionize how creatives work across Adobe's suite of tools. But there's more than meets the eye when it comes to these advancements. Turning to world affairs, President Trump has hinted at the possibility of new peace talks with…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-15/episode.mp3" length="12837539" type="audio/mpeg" />
+      <itunes:duration>00:11:18</itunes:duration>
+      <itunes:episode>10</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Tuesday, April 14, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-14/episode.mp3</link>
