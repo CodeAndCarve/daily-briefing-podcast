@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Wed, 15 Apr 2026 13:05:28 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 13:04:58 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Thursday, April 16, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-16/episode.mp3</link>
+      <pubDate>Thu, 16 Apr 2026 13:00:10 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-16/episode.mp3</guid>
+      <description>Daily Briefing — Thursday, April 16, 2026
+
+Welcome to Daily Briefing, today is Thursday, April 16, 2026. I’m Marcus, here to bring you up to speed on the latest happenings around the globe. Let’s kick off with our top stories from each segment. There’s big news in technology as DJI unveils its latest Osmo Pocket camera—quite the wait since 2023's release. And I’m Sofia. It should be an interesting piece for tech enthusiasts who’ve been following DJI’s developments. Speaking of tech, we’ve also got privacy concerns with a data leak at a major retailer. Tech and security are ever-intertwined it seems. On the AI front, the ongoing debate about AI in warfare takes center stage. There are questions whether involving humans in the loop is feasible or just wishful thinking. That's right, Marcus. This debate is definitely heating up with AI playing a significant role in current…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-16/episode.mp3" length="12069538" type="audio/mpeg" />
+      <itunes:duration>00:10:30</itunes:duration>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Wednesday, April 15, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-15/episode.mp3</link>
