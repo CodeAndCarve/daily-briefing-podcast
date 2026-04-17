@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Thu, 16 Apr 2026 13:04:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 14:51:29 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Friday, April 17, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-17/episode.mp3</link>
+      <pubDate>Fri, 17 Apr 2026 13:04:35 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-17/episode.mp3</guid>
+      <description>Daily Briefing — Friday, April 17, 2026
+
+Good morning and welcome to the Daily Briefing. I'm Marcus, here to guide you through the top stories you need to know today, April 17, 2026. As we end the workweek, we're diving into a packed agenda, starting with our technology segment where the creative software industry is reportedly declaring war on Adobe. That's right, Marcus. This doesn't just affect designers; it might shake up the entire creative landscape. And let's not forget about a rather extraordinary report of a giant cell tower heading into space, though it's from a single source, so we'll approach it cautiously. Meanwhile, in the world of artificial intelligence, there are claims of Anthropic's new model, Claude Opus 4.7, surpassing Google and OpenAI, but again, we need more than a single report to substantiate such a bold claim. Exactly, and in our world affairs segment,…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-17/episode.mp3" length="11462592" type="audio/mpeg" />
+      <itunes:duration>00:09:52</itunes:duration>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Thursday, April 16, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-16/episode.mp3</link>
