@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Fri, 17 Apr 2026 14:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 13:06:14 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Saturday, April 18, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-18/episode.mp3</link>
+      <pubDate>Sat, 18 Apr 2026 13:00:01 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-18/episode.mp3</guid>
+      <description>Daily Briefing — Saturday, April 18, 2026
+
+Welcome to Daily Briefing. It's Saturday, April 18, 2026. I'm Marcus, and we're diving into another full docket of news today. Our top stories include a notable shift in the technology sector with Stripe and Airwallex becoming fierce competitors. In today’s AI segment, we'll discuss Anthropic’s new AI design tool, Claude Design, which could challenge design industry standards. That's right, Marcus. And from the global stage, tensions are escalating again in the Strait of Hormuz with significant geopolitical and economic implications. Meanwhile, in business news, we see rising consolidation in the auto industry as local dealerships face pressure from mega-retailers. There’s certainly a lot happening, Sofia. And speaking of technology, we're also looking into OpenAI's ongoing strategic changes following the departure of key personnel. Yes, indeed. The departure of OpenAI's Sora team leader marks a significant pivot for the company…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-18/episode.mp3" length="15460958" type="audio/mpeg" />
+      <itunes:duration>00:14:02</itunes:duration>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Friday, April 17, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-17/episode.mp3</link>
