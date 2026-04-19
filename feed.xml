@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Sat, 18 Apr 2026 13:06:14 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 14:01:41 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Sunday, April 19, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-19/episode.mp3</link>
+      <pubDate>Sun, 19 Apr 2026 13:01:32 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-19/episode.mp3</guid>
+      <description>Daily Briefing — Sunday, April 19, 2026
+
+**INTRO** Welcome to the Daily Briefing. I'm Marcus. It's Sunday, April 19, 2026, and today we have a range of stories lined up. We'll start with an exciting development in technology, as Blue Origin has successfully re-used a New Glenn rocket, a major step forward in the space race. That's right, Marcus. The re-use marks a key milestone for the company, potentially shifting the competitive landscape of global launches. In other news, we'll explore how Keychron's latest keyboard is making waves with its marathon battery life. In the world of artificial intelligence, there are intriguing updates, including how AI is being operationalized for government use despite numerous constraints. We'll unpack what this means for public sector efficiency. It's fascinating, Marcus. The implications could be vast, potentially reshaping how governments handle workloads and improve services. We'll also delve into recent discussions…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-19/episode.mp3" length="15836882" type="audio/mpeg" />
+      <itunes:duration>00:14:25</itunes:duration>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Saturday, April 18, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-18/episode.mp3</link>
