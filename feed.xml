@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Tue, 21 Apr 2026 05:14:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 13:05:45 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Tuesday, April 21, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-21/episode.mp3</link>
+      <pubDate>Tue, 21 Apr 2026 13:00:29 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-21/episode.mp3</guid>
+      <description>Daily Briefing — Tuesday, April 21, 2026
+
+**INTRO** Good morning, everyone. It's Tuesday, April 21, 2026, and welcome to today's episode of "Daily Briefing." I'm Marcus. And I'm Sofia. We're glad you could join us. We've got a packed episode ahead with stories from technology, artificial intelligence, world affairs, and business. That's right, Sofia. Starting in the technology world, Cash App is making waves by reportedly targeting an unlikely audience — children aged 6-12. According to one report, this move marks a significant shift in fintech strategies. It's certainly raising eyebrows, Marcus. Also, we'll look at SpaceX planning a high-stakes IPO and how Apple's leadership is shifting back to its product roots with a new CEO. Moving on to AI, it seems adversaries might be exploiting some AI security tools, affecting over 90 organizations. This could have major implications for cybersecurity. Absolutely. And we'll delve into the…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-21/episode.mp3" length="12465067" type="audio/mpeg" />
+      <itunes:duration>00:10:55</itunes:duration>
+      <itunes:episode>16</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Monday, April 20, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-20/episode.mp3</link>
