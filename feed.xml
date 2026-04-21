@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Sun, 19 Apr 2026 14:01:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 05:14:06 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Monday, April 20, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-20/episode.mp3</link>
+      <pubDate>Mon, 20 Apr 2026 13:14:58 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-20/episode.mp3</guid>
+      <description>Daily Briefing — Monday, April 20, 2026
+
+**INTRO** Good morning, it's April 20th, 2026. Welcome to "Daily Briefing." I'm Marcus, and as always, alongside me is Sofia. We've got a jam-packed episode for you today. We'll start with a fascinating shift in the gaming world as "Vampire Survivors" unveils a new spinoff, moving to a whole new genre. That's right, Marcus. And over in the technology realm, there's a buzz as Huawei beats Apple and Samsung to the punch with a new foldable phone that's changing the game. Intriguingly, it's only available in China, raising interesting strategic questions. In AI news, concerns are rising over how synthetic life forms might impact us, mirrored by a novel development as Chinese tech workers train AI that might replace them. These stories delve into the intersection of human ethics and machine advancement. And on the world stage, tensions are escalating…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-20/episode.mp3" length="15696581" type="audio/mpeg" />
+      <itunes:duration>00:14:16</itunes:duration>
+      <itunes:episode>15</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Sunday, April 19, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-19/episode.mp3</link>
