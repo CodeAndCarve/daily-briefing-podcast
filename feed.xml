@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Tue, 21 Apr 2026 13:05:45 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 13:05:07 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Wednesday, April 22, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-22/episode.mp3</link>
+      <pubDate>Wed, 22 Apr 2026 13:00:16 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-22/episode.mp3</guid>
+      <description>Daily Briefing — Wednesday, April 22, 2026
+
+```plaintext Good morning and welcome to the Daily Briefing. It's Wednesday, April 22, 2026, and I'm Marcus. Today, we delve into the newly unveiled BMW 7 Series 'Neue Klasse'. This electric vehicle architecture promises a futuristic shift for the automaker. And I'm Sofia. That sounds exciting, Marcus. We'll also be discussing a dramatic development in robotics as a lesser-known company tries to shoot for the stars with a Super Bowl ad. Can a bold marketing move turn a vacuum startup into a consumer electronics giant? In the AI realm, Google has surprised us again, reportedly advancing AI portability. Google’s Gemini model supposedly vanishes if you pull the plug, and there’s a new architecture for businesses that seems to put AI firmly at the center. It's fascinating how the AI landscape keeps evolving, Marcus. We'll unpack the implications of these technological…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-22/episode.mp3" length="12619978" type="audio/mpeg" />
+      <itunes:duration>00:11:04</itunes:duration>
+      <itunes:episode>17</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Tuesday, April 21, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-21/episode.mp3</link>
