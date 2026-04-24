@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Thu, 23 Apr 2026 13:07:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 13:36:37 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Friday, April 24, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-24/episode.mp3</link>
+      <pubDate>Fri, 24 Apr 2026 13:00:13 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-24/episode.mp3</guid>
+      <description>Daily Briefing — Friday, April 24, 2026
+
+Good morning, and welcome to your Daily Briefing. I'm Marcus. And I'm Sofia. Today is Friday, April 24, 2026. Glad you've chosen to spend part of your day with us. Let's dive into today's top stories. First up in technology, Elon Musk and Sam Altman are headed to court next week in a legal battle over OpenAI. This showdown could have major ramifications for the AI industry. That's right, Marcus. It's a high-stakes situation with power and control at the center, not just for these tech titans but possibly affecting the direction of AI development itself. In the world of artificial intelligence, we're looking at OpenAI's release of GPT-5.5, making waves in the field by reportedly surpassing its competitors. But can it maintain the lead? It's fascinating, Marcus. This upgrade promises significant improvements, but we have to keep an eye…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-24/episode.mp3" length="12303240" type="audio/mpeg" />
+      <itunes:duration>00:10:44</itunes:duration>
+      <itunes:episode>19</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Thursday, April 23, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-23/episode.mp3</link>
