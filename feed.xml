@@ -6,7 +6,7 @@
     <link>https://codeandcarve.github.io/daily-briefing-podcast</link>
     <language>en-us</language>
     <copyright>© 2026 Daily Briefing Podcast</copyright>
-    <lastBuildDate>Sat, 25 Apr 2026 13:05:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 13:04:10 +0000</lastBuildDate>
     <itunes:author>Daily Briefing Podcast</itunes:author>
     <itunes:owner>
       <itunes:name>Daily Briefing Podcast</itunes:name>
@@ -18,6 +18,20 @@
     </itunes:category>
     <itunes:image href="https://codeandcarve.github.io/daily-briefing-podcast/assets/cover.jpg" />
     <atom:link href="https://codeandcarve.github.io/daily-briefing-podcast/feed.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Daily Briefing — Sunday, April 26, 2026</title>
+      <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-26/episode.mp3</link>
+      <pubDate>Sun, 26 Apr 2026 13:00:13 +0000</pubDate>
+      <guid>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-26/episode.mp3</guid>
+      <description>Daily Briefing — Sunday, April 26, 2026
+
+Welcome to Daily Briefing, where we bring you the latest in news and insights to keep you informed. It's Sunday, April 26, 2026. I'm your host, Marcus. And I'm Sofia. We've got an exciting lineup today, right, Marcus? Absolutely, Sofia. Starting with our technology segment, there's a lot of buzz around some new robotic control software that could revolutionize how robots work together. Also, a report claims Trump has fired the entire National Science Board, though we're treating this with caution until we get more corroboration. It's fascinating to see how tech keeps pushing the boundaries. We'll dive into what these developments mean for the industry and beyond. For AI, we'll look into DeepSeek's groundbreaking model that could change how we process large texts, and there are concerns about AI-driven scams ramping up. All based, however, on a single source,…</description>
+      <enclosure url="https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-26/episode.mp3" length="10442052" type="audio/mpeg" />
+      <itunes:duration>00:08:48</itunes:duration>
+      <itunes:episode>21</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>Daily Briefing — Saturday, April 25, 2026</title>
       <link>https://codeandcarve.github.io/daily-briefing-podcast/episodes/2026-04-25/episode.mp3</link>
